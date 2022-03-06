@@ -1,0 +1,12 @@
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.config
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.pdb
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.fadein.resources
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.lose.resources
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.main.resources
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.playsound.resources
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe
+C:\Users\jungHome\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.pdb
