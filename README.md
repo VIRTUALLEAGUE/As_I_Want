@@ -58,7 +58,7 @@
 - 게임을 직접 해보면 알겠지만, 이 게임은 정상적인 플레이만으로는 승리할 수 없다.
 - 시간이 갈수록 딜레이 시간이 길어져 제한시간 내 20번의 버튼을 클릭할 수 없기 때문이다.
 - 내가 의도한 풀이는 게임 내 메모리를 조작하여 승리하는 것이다.
-- 나의 경우 Cheat Engine을 사용하였다.
+- 나의 경우 <a href="https://www.cheatengine.org/">Cheat Engine</a>을 사용하였다.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48519031/156916079-d6a5bf33-33dd-4f28-88b2-1253012e2688.gif" width=120%/>
 </p>
