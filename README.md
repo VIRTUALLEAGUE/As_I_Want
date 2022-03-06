@@ -18,7 +18,41 @@
 
 ## Files
 - FadeIn
-	- 프로그램 실행 시, 
+	- 프로그램 실행 시, FadeIn이 먼저 실행된다. 게임의 시작 전 준비 단계로, 타이틀 로고가 보여진다.
+	```c#
+	private static DateTime Delay(int MS)
+        {
+            DateTime ThisMoment = DateTime.Now;
+            TimeSpan duration = new TimeSpan(0, 0, 0, 0, MS);
+            DateTime AfterWards = ThisMoment.Add(duration);
+
+            while (AfterWards >= ThisMoment)
+            {
+                System.Windows.Forms.Application.DoEvents();
+                ThisMoment = DateTime.Now;
+            }
+            return DateTime.Now;
+        }
+	
+	private void fadein_Load(object sender, EventArgs e)
+        {
+            this.Opacity = 0;
+            timer1.Start();
+        }
+	
+	private void timer1_Tick_1(object sender, EventArgs e)
+        {
+            double x = 0.05;
+            if (this.Opacity <= 0.95) {this.Opacity += x}
+            else if (this.Opacity + x > 0.95)
+            {
+                timer1.Stop();
+                Delay(2200);
+                this.Close();
+            }
+        }
+	
+	```
 
 ## Solution
 - 게임을 직접 해보면 알겠지만, 이 게임은 정상적인 플레이만으로는 승리할 수 없다.
