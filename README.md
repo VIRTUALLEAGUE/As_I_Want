@@ -6,14 +6,13 @@
 <a href="https://drive.google.com/file/d/1ST8TqhS9lM3WXK8dsLTVX_bi7Y_V9H30/view?usp=sharing">배포버전 다운로드</a>
 
 ## Description
-- 2020년 ~ 2021년, 게임 프로듀서로 기획한 Virtual League 명칭의 게임 홍보 및 포트폴리오 용도 목적의 개발
-- WEB 개발에 대한 지식과 경험 전무로, 많은 시행착오가 존재
-- <a href="https://html5up.net/">HTML5 UP</a> 템플릿 활용
+- 교내 해킹 동아리에서 개인 프로젝트로 게임 메모리 해킹 관련 연구를 진행하였다.
+- 시중의 해킹툴을 라이브 게임에 실험하는 것은 윤리적 그리고 법률적 문제가 있을 것이라 판단하여 직접 작은 게임을 개발했다.
 
 ## Environment
-- Windows OS의 Visual Studio Code 사용
-- Client -> Gabia Hosting Server -> Github IO
-- HTML / CSS / JS
+- Windows OS의 Visual Studio 2019 사용
+- FadeIn -> Main -> Close
+- C# / WinForm
 
 ## Prerequisite
 
