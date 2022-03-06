@@ -17,7 +17,8 @@
 ## Prerequisite
 
 ## Files
-- index.html
+- FadeIn
+	- 프로그램 실행 시, 
 
 ## Solution
 - 게임을 직접 해보면 알겠지만, 이 게임은 정상적인 플레이만으로는 승리할 수 없다.
@@ -27,6 +28,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48519031/156916079-d6a5bf33-33dd-4f28-88b2-1253012e2688.gif" width=120%/>
 </p>
+- 즉, 메모리 해킹으로 특정 변수값을 원하는 대로 변조할 수 있어야 풀이가 가능하다. 이 프로젝트의 이름을 As I Want(내가 원하는대로)로 정한 이유이다.
 	
 
 ## Etc
